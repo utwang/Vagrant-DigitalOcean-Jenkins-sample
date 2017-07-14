@@ -11,3 +11,5 @@ Requirements include:
 This will build a server named 'jenkins' on an Ubuntu 14.04 server and deploy the Jenkins components.
 
 For all the instructions on how to deploy this, you can find the blog post at my site here: http://discopos.se/1jqkJJ9 
+
+ref: https://github.com/discoposse/Vagrant-DigitalOcean-Jenkins.git
